@@ -13,6 +13,7 @@
 		50E89CF42DF1AA1C0017B69F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50E89CF32DF1AA1C0017B69F /* Preview Assets.xcassets */; };
 		50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CFD2DF1B0D00017B69F /* TextBootcamp.swift */; };
 		50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CFF2DF1B2910017B69F /* ShapesBootcamp.swift */; };
+		50E89D022DF1B8620017B69F /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D012DF1B8620017B69F /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		50E89CF32DF1AA1C0017B69F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		50E89CFD2DF1B0D00017B69F /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		50E89CFF2DF1B2910017B69F /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		50E89D012DF1B8620017B69F /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				50E89CFD2DF1B0D00017B69F /* TextBootcamp.swift */,
 				50E89CFF2DF1B2910017B69F /* ShapesBootcamp.swift */,
+				50E89D012DF1B8620017B69F /* ColorsBootcamp.swift */,
 			);
 			path = Beginner;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50E89D022DF1B8620017B69F /* ColorsBootcamp.swift in Sources */,
 				50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */,
 				50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */,
 				50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */,
