@@ -11,6 +11,8 @@
 		50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CEE2DF1AA1A0017B69F /* ContentView.swift */; };
 		50E89CF12DF1AA1C0017B69F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50E89CF02DF1AA1C0017B69F /* Assets.xcassets */; };
 		50E89CF42DF1AA1C0017B69F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50E89CF32DF1AA1C0017B69F /* Preview Assets.xcassets */; };
+		50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CFD2DF1B0D00017B69F /* TextBootcamp.swift */; };
+		50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CFF2DF1B2910017B69F /* ShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		50E89CEE2DF1AA1A0017B69F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		50E89CF02DF1AA1C0017B69F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50E89CF32DF1AA1C0017B69F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		50E89CFD2DF1B0D00017B69F /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		50E89CFF2DF1B2910017B69F /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +55,7 @@
 		50E89CEB2DF1AA1A0017B69F /* SwiftUIBootcamp */ = {
 			isa = PBXGroup;
 			children = (
+				50E89CFA2DF1AB900017B69F /* Beginner */,
 				50E89CEC2DF1AA1A0017B69F /* SwiftUIBootcampApp.swift */,
 				50E89CEE2DF1AA1A0017B69F /* ContentView.swift */,
 				50E89CF02DF1AA1C0017B69F /* Assets.xcassets */,
@@ -65,6 +70,15 @@
 				50E89CF32DF1AA1C0017B69F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		50E89CFA2DF1AB900017B69F /* Beginner */ = {
+			isa = PBXGroup;
+			children = (
+				50E89CFD2DF1B0D00017B69F /* TextBootcamp.swift */,
+				50E89CFF2DF1B2910017B69F /* ShapesBootcamp.swift */,
+			);
+			path = Beginner;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +151,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */,
 				50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */,
+				50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */,
 				50E89CED2DF1AA1A0017B69F /* SwiftUIBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,11 +291,13 @@
 				DEVELOPMENT_TEAM = 67WTGHWAS3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bootcamp;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,11 +322,13 @@
 				DEVELOPMENT_TEAM = 67WTGHWAS3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bootcamp;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
