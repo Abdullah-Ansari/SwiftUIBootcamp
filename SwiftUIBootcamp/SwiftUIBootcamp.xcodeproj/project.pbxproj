@@ -20,6 +20,7 @@
 		50E89D0A2DF1E0A20017B69F /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D092DF1E0A20017B69F /* FrameBootcamp.swift */; };
 		50E89D0C2DF1E5A20017B69F /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D0B2DF1E5A20017B69F /* BackgroundAndOverlayBootcamp.swift */; };
 		50E89D0E2DF23D380017B69F /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D0D2DF23D380017B69F /* StacksBootcamp.swift */; };
+		50E89D102DF241E90017B69F /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D0F2DF241E90017B69F /* PaddingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		50E89D092DF1E0A20017B69F /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		50E89D0B2DF1E5A20017B69F /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		50E89D0D2DF23D380017B69F /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		50E89D0F2DF241E90017B69F /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				50E89D092DF1E0A20017B69F /* FrameBootcamp.swift */,
 				50E89D0B2DF1E5A20017B69F /* BackgroundAndOverlayBootcamp.swift */,
 				50E89D0D2DF23D380017B69F /* StacksBootcamp.swift */,
+				50E89D0F2DF241E90017B69F /* PaddingBootcamp.swift */,
 			);
 			path = Beginner;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				50E89D0C2DF1E5A20017B69F /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				50E89D022DF1B8620017B69F /* ColorsBootcamp.swift in Sources */,
 				50E89D0A2DF1E0A20017B69F /* FrameBootcamp.swift in Sources */,
+				50E89D102DF241E90017B69F /* PaddingBootcamp.swift in Sources */,
 				50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */,
 				50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */,
 				50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */,
