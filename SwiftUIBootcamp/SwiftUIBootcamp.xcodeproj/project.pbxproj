@@ -23,6 +23,7 @@
 		50E89D102DF241E90017B69F /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D0F2DF241E90017B69F /* PaddingBootcamp.swift */; };
 		50E89D122DF2FFC30017B69F /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D112DF2FFC30017B69F /* SpacerBootcamp.swift */; };
 		50E89D142DF308190017B69F /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D132DF308190017B69F /* InitializerBootcamp.swift */; };
+		50E89D162DF30D9B0017B69F /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89D152DF30D9B0017B69F /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		50E89D0F2DF241E90017B69F /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 		50E89D112DF2FFC30017B69F /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		50E89D132DF308190017B69F /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		50E89D152DF30D9B0017B69F /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				50E89D0F2DF241E90017B69F /* PaddingBootcamp.swift */,
 				50E89D112DF2FFC30017B69F /* SpacerBootcamp.swift */,
 				50E89D132DF308190017B69F /* InitializerBootcamp.swift */,
+				50E89D152DF30D9B0017B69F /* ForEachBootcamp.swift */,
 			);
 			path = Beginner;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				50E89D142DF308190017B69F /* InitializerBootcamp.swift in Sources */,
 				50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */,
 				50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */,
+				50E89D162DF30D9B0017B69F /* ForEachBootcamp.swift in Sources */,
 				50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */,
 				50E89D0E2DF23D380017B69F /* StacksBootcamp.swift in Sources */,
 				50E89CED2DF1AA1A0017B69F /* SwiftUIBootcampApp.swift in Sources */,
