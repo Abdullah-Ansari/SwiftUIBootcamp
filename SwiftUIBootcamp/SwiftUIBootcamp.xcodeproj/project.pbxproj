@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		505D37DD2DF3909200097BC3 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 505D37DC2DF3909200097BC3 /* SafeAreaBootcamp.swift */; };
 		50E89CED2DF1AA1A0017B69F /* SwiftUIBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CEC2DF1AA1A0017B69F /* SwiftUIBootcampApp.swift */; };
 		50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50E89CEE2DF1AA1A0017B69F /* ContentView.swift */; };
 		50E89CF12DF1AA1C0017B69F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50E89CF02DF1AA1C0017B69F /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		505D37DC2DF3909200097BC3 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		50E89CE92DF1AA1A0017B69F /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50E89CEC2DF1AA1A0017B69F /* SwiftUIBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcampApp.swift; sourceTree = "<group>"; };
 		50E89CEE2DF1AA1A0017B69F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				50E89D152DF30D9B0017B69F /* ForEachBootcamp.swift */,
 				50E89D172DF317EC0017B69F /* ScrollViewBootcamp.swift */,
 				50E89D192DF378000017B69F /* GridBootcamp.swift */,
+				505D37DC2DF3909200097BC3 /* SafeAreaBootcamp.swift */,
 			);
 			path = Beginner;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				50E89D102DF241E90017B69F /* PaddingBootcamp.swift in Sources */,
 				50E89D142DF308190017B69F /* InitializerBootcamp.swift in Sources */,
 				50E89D002DF1B2920017B69F /* ShapesBootcamp.swift in Sources */,
+				505D37DD2DF3909200097BC3 /* SafeAreaBootcamp.swift in Sources */,
 				50E89CEF2DF1AA1A0017B69F /* ContentView.swift in Sources */,
 				50E89D162DF30D9B0017B69F /* ForEachBootcamp.swift in Sources */,
 				50E89CFE2DF1B0D00017B69F /* TextBootcamp.swift in Sources */,
