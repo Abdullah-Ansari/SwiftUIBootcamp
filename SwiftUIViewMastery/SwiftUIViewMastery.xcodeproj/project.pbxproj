@@ -11,6 +11,7 @@
 		503121742E6AFF69009B9F94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121732E6AFF69009B9F94 /* ContentView.swift */; };
 		503121762E6AFF6B009B9F94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503121752E6AFF6B009B9F94 /* Assets.xcassets */; };
 		503121792E6AFF6B009B9F94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503121782E6AFF6B009B9F94 /* Preview Assets.xcassets */; };
+		503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121802E6B18D0009B9F94 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		503121732E6AFF69009B9F94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		503121752E6AFF6B009B9F94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		503121782E6AFF6B009B9F94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		503121802E6B18D0009B9F94 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		503121702E6AFF69009B9F94 /* SwiftUIViewMastery */ = {
 			isa = PBXGroup;
 			children = (
+				5031217F2E6B18B8009B9F94 /* ViewMastery */,
 				503121712E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift */,
 				503121732E6AFF69009B9F94 /* ContentView.swift */,
 				503121752E6AFF6B009B9F94 /* Assets.xcassets */,
@@ -65,6 +68,14 @@
 				503121782E6AFF6B009B9F94 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5031217F2E6B18B8009B9F94 /* ViewMastery */ = {
+			isa = PBXGroup;
+			children = (
+				503121802E6B18D0009B9F94 /* HeaderView.swift */,
+			);
+			path = ViewMastery;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				503121742E6AFF69009B9F94 /* ContentView.swift in Sources */,
+				503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */,
 				503121722E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
