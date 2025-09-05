@@ -14,6 +14,7 @@
 		503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121802E6B18D0009B9F94 /* HeaderView.swift */; };
 		503121832E6B1C42009B9F94 /* SymbolsIntro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121822E6B1C42009B9F94 /* SymbolsIntro.swift */; };
 		503121852E6B1E19009B9F94 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121842E6B1E19009B9F94 /* Shapes.swift */; };
+		503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121862E6B21E8009B9F94 /* ViewSizes_Pull_In.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		503121802E6B18D0009B9F94 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		503121822E6B1C42009B9F94 /* SymbolsIntro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsIntro.swift; sourceTree = "<group>"; };
 		503121842E6B1E19009B9F94 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		503121862E6B21E8009B9F94 /* ViewSizes_Pull_In.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewSizes_Pull_In.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				503121802E6B18D0009B9F94 /* HeaderView.swift */,
 				503121822E6B1C42009B9F94 /* SymbolsIntro.swift */,
 				503121842E6B1E19009B9F94 /* Shapes.swift */,
+				503121862E6B21E8009B9F94 /* ViewSizes_Pull_In.swift */,
 			);
 			path = ViewMastery;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				503121742E6AFF69009B9F94 /* ContentView.swift in Sources */,
+				503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */,
 				503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */,
 				503121852E6B1E19009B9F94 /* Shapes.swift in Sources */,
 				503121832E6B1C42009B9F94 /* SymbolsIntro.swift in Sources */,
