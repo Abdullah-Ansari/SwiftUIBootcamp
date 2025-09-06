@@ -92,7 +92,7 @@ struct LazyVStackWithScrolling: View {
             )
             
             ScrollView {
-                LazyVStack(spacing: 5) {
+                LazyVStack(spacing: 5, pinnedViews: [.sectionHeaders, .sectionFooters]) {
                     ForEach(teams) { team in
                         Section {
                             ForEach(team.places) { place in
@@ -108,6 +108,7 @@ struct LazyVStackWithScrolling: View {
                     }
                 }
             }
+            Spacer()
         }
     }
 }
