@@ -19,6 +19,7 @@
 		5031218B2E6B3E24009B9F94 /* Previews_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5031218A2E6B3E24009B9F94 /* Previews_Intro.swift */; };
 		5031218D2E6C20F8009B9F94 /* VStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5031218C2E6C20F8009B9F94 /* VStack_Intro.swift */; };
 		5031218F2E6C31CD009B9F94 /* VStack_Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5031218E2E6C31CD009B9F94 /* VStack_Alignment.swift */; };
+		503121912E6C53A0009B9F94 /* LazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121902E6C53A0009B9F94 /* LazyVStack_Intro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5031218A2E6B3E24009B9F94 /* Previews_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Previews_Intro.swift; sourceTree = "<group>"; };
 		5031218C2E6C20F8009B9F94 /* VStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack_Intro.swift; sourceTree = "<group>"; };
 		5031218E2E6C31CD009B9F94 /* VStack_Alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack_Alignment.swift; sourceTree = "<group>"; };
+		503121902E6C53A0009B9F94 /* LazyVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStack_Intro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				5031218A2E6B3E24009B9F94 /* Previews_Intro.swift */,
 				5031218C2E6C20F8009B9F94 /* VStack_Intro.swift */,
 				5031218E2E6C31CD009B9F94 /* VStack_Alignment.swift */,
+				503121902E6C53A0009B9F94 /* LazyVStack_Intro.swift */,
 			);
 			path = ViewMastery;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				503121892E6B23F0009B9F94 /* ViewSizes_Push_Out.swift in Sources */,
 				503121742E6AFF69009B9F94 /* ContentView.swift in Sources */,
+				503121912E6C53A0009B9F94 /* LazyVStack_Intro.swift in Sources */,
 				5031218F2E6C31CD009B9F94 /* VStack_Alignment.swift in Sources */,
 				503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */,
 				503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */,
