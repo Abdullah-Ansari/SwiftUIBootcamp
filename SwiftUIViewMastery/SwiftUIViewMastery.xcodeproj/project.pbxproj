@@ -17,6 +17,7 @@
 		503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121862E6B21E8009B9F94 /* ViewSizes_Pull_In.swift */; };
 		503121892E6B23F0009B9F94 /* ViewSizes_Push_Out.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121882E6B23F0009B9F94 /* ViewSizes_Push_Out.swift */; };
 		5031218B2E6B3E24009B9F94 /* Previews_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5031218A2E6B3E24009B9F94 /* Previews_Intro.swift */; };
+		5031218D2E6C20F8009B9F94 /* VStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5031218C2E6C20F8009B9F94 /* VStack_Intro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		503121862E6B21E8009B9F94 /* ViewSizes_Pull_In.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewSizes_Pull_In.swift; sourceTree = "<group>"; };
 		503121882E6B23F0009B9F94 /* ViewSizes_Push_Out.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewSizes_Push_Out.swift; sourceTree = "<group>"; };
 		5031218A2E6B3E24009B9F94 /* Previews_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Previews_Intro.swift; sourceTree = "<group>"; };
+		5031218C2E6C20F8009B9F94 /* VStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack_Intro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				503121862E6B21E8009B9F94 /* ViewSizes_Pull_In.swift */,
 				503121882E6B23F0009B9F94 /* ViewSizes_Push_Out.swift */,
 				5031218A2E6B3E24009B9F94 /* Previews_Intro.swift */,
+				5031218C2E6C20F8009B9F94 /* VStack_Intro.swift */,
 			);
 			path = ViewMastery;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				503121832E6B1C42009B9F94 /* SymbolsIntro.swift in Sources */,
 				503121722E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift in Sources */,
 				5031218B2E6B3E24009B9F94 /* Previews_Intro.swift in Sources */,
+				5031218D2E6C20F8009B9F94 /* VStack_Intro.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
