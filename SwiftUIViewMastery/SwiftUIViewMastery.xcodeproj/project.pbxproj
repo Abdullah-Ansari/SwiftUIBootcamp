@@ -26,6 +26,7 @@
 		50CC73702E7EDA600067DAF1 /* HStack_Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC736F2E7EDA600067DAF1 /* HStack_Alignment.swift */; };
 		50CC73722E7EE44A0067DAF1 /* HStack_TextAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */; };
 		50CC73742E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */; };
+		50CC73762E7EE8B80067DAF1 /* HStack_Customizing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC73752E7EE8B80067DAF1 /* HStack_Customizing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		50CC736F2E7EDA600067DAF1 /* HStack_Alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Alignment.swift; sourceTree = "<group>"; };
 		50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_TextAlignment.swift; sourceTree = "<group>"; };
 		50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_TextAlignment_FirstLast.swift; sourceTree = "<group>"; };
+		50CC73752E7EE8B80067DAF1 /* HStack_Customizing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Customizing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				50CC736F2E7EDA600067DAF1 /* HStack_Alignment.swift */,
 				50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */,
 				50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */,
+				50CC73752E7EE8B80067DAF1 /* HStack_Customizing.swift */,
 			);
 			path = HStack;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50CC73762E7EE8B80067DAF1 /* HStack_Customizing.swift in Sources */,
 				503121892E6B23F0009B9F94 /* ViewSizes_Push_Out.swift in Sources */,
 				50CC73702E7EDA600067DAF1 /* HStack_Alignment.swift in Sources */,
 				503121932E6C7320009B9F94 /* LazyVStackWithScrolling.swift in Sources */,
