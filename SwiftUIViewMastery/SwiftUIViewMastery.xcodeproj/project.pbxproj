@@ -25,6 +25,7 @@
 		50CC736E2E7ED97C0067DAF1 /* HStack_Spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC736D2E7ED97C0067DAF1 /* HStack_Spacing.swift */; };
 		50CC73702E7EDA600067DAF1 /* HStack_Alignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC736F2E7EDA600067DAF1 /* HStack_Alignment.swift */; };
 		50CC73722E7EE44A0067DAF1 /* HStack_TextAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */; };
+		50CC73742E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		50CC736D2E7ED97C0067DAF1 /* HStack_Spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Spacing.swift; sourceTree = "<group>"; };
 		50CC736F2E7EDA600067DAF1 /* HStack_Alignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Alignment.swift; sourceTree = "<group>"; };
 		50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_TextAlignment.swift; sourceTree = "<group>"; };
+		50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_TextAlignment_FirstLast.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				50CC736D2E7ED97C0067DAF1 /* HStack_Spacing.swift */,
 				50CC736F2E7EDA600067DAF1 /* HStack_Alignment.swift */,
 				50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */,
+				50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */,
 			);
 			path = HStack;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */,
 				50CC736E2E7ED97C0067DAF1 /* HStack_Spacing.swift in Sources */,
 				503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */,
+				50CC73742E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift in Sources */,
 				503121852E6B1E19009B9F94 /* Shapes.swift in Sources */,
 				503121832E6B1C42009B9F94 /* SymbolsIntro.swift in Sources */,
 				503121722E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift in Sources */,
