@@ -22,6 +22,7 @@
 		503121912E6C53A0009B9F94 /* LazyVStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121902E6C53A0009B9F94 /* LazyVStack_Intro.swift */; };
 		503121932E6C7320009B9F94 /* LazyVStackWithScrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121922E6C7320009B9F94 /* LazyVStackWithScrolling.swift */; };
 		50CC73692E7ED7A50067DAF1 /* HStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC73682E7ED7A50067DAF1 /* HStack_Intro.swift */; };
+		50CC736E2E7ED97C0067DAF1 /* HStack_Spacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CC736D2E7ED97C0067DAF1 /* HStack_Spacing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		503121902E6C53A0009B9F94 /* LazyVStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStack_Intro.swift; sourceTree = "<group>"; };
 		503121922E6C7320009B9F94 /* LazyVStackWithScrolling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStackWithScrolling.swift; sourceTree = "<group>"; };
 		50CC73682E7ED7A50067DAF1 /* HStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Intro.swift; sourceTree = "<group>"; };
+		50CC736D2E7ED97C0067DAF1 /* HStack_Spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Spacing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				50CC73682E7ED7A50067DAF1 /* HStack_Intro.swift */,
+				50CC736D2E7ED97C0067DAF1 /* HStack_Spacing.swift */,
 			);
 			path = HStack;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				5031218F2E6C31CD009B9F94 /* VStack_Alignment.swift in Sources */,
 				50CC73692E7ED7A50067DAF1 /* HStack_Intro.swift in Sources */,
 				503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */,
+				50CC736E2E7ED97C0067DAF1 /* HStack_Spacing.swift in Sources */,
 				503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */,
 				503121852E6B1E19009B9F94 /* Shapes.swift in Sources */,
 				503121832E6B1C42009B9F94 /* SymbolsIntro.swift in Sources */,
