@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		50255FC92E87E26A00FBC192 /* HStack_Layout_Priority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50255FC82E87E26A00FBC192 /* HStack_Layout_Priority.swift */; };
+		50255FCB2E87E6B700FBC192 /* LazyHStack_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50255FCA2E87E6B700FBC192 /* LazyHStack_Intro.swift */; };
 		503121722E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121712E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift */; };
 		503121742E6AFF69009B9F94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121732E6AFF69009B9F94 /* ContentView.swift */; };
 		503121762E6AFF6B009B9F94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503121752E6AFF6B009B9F94 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		50255FC82E87E26A00FBC192 /* HStack_Layout_Priority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Layout_Priority.swift; sourceTree = "<group>"; };
+		50255FCA2E87E6B700FBC192 /* LazyHStack_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStack_Intro.swift; sourceTree = "<group>"; };
 		5031216E2E6AFF69009B9F94 /* SwiftUIViewMastery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIViewMastery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		503121712E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewMasteryApp.swift; sourceTree = "<group>"; };
 		503121732E6AFF69009B9F94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */,
 				50CC73752E7EE8B80067DAF1 /* HStack_Customizing.swift */,
 				50255FC82E87E26A00FBC192 /* HStack_Layout_Priority.swift */,
+				50255FCA2E87E6B700FBC192 /* LazyHStack_Intro.swift */,
 			);
 			path = HStack;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				5031218F2E6C31CD009B9F94 /* VStack_Alignment.swift in Sources */,
 				50CC73722E7EE44A0067DAF1 /* HStack_TextAlignment.swift in Sources */,
 				50CC73692E7ED7A50067DAF1 /* HStack_Intro.swift in Sources */,
+				50255FCB2E87E6B700FBC192 /* LazyHStack_Intro.swift in Sources */,
 				503121872E6B21E8009B9F94 /* ViewSizes_Pull_In.swift in Sources */,
 				50CC736E2E7ED97C0067DAF1 /* HStack_Spacing.swift in Sources */,
 				503121812E6B18D0009B9F94 /* HeaderView.swift in Sources */,
