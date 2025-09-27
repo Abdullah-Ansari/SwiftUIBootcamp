@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		50255FC92E87E26A00FBC192 /* HStack_Layout_Priority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50255FC82E87E26A00FBC192 /* HStack_Layout_Priority.swift */; };
 		503121722E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121712E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift */; };
 		503121742E6AFF69009B9F94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503121732E6AFF69009B9F94 /* ContentView.swift */; };
 		503121762E6AFF6B009B9F94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503121752E6AFF6B009B9F94 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		50255FC82E87E26A00FBC192 /* HStack_Layout_Priority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStack_Layout_Priority.swift; sourceTree = "<group>"; };
 		5031216E2E6AFF69009B9F94 /* SwiftUIViewMastery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIViewMastery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		503121712E6AFF69009B9F94 /* SwiftUIViewMasteryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewMasteryApp.swift; sourceTree = "<group>"; };
 		503121732E6AFF69009B9F94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				50CC73712E7EE44A0067DAF1 /* HStack_TextAlignment.swift */,
 				50CC73732E7EE6BC0067DAF1 /* HStack_TextAlignment_FirstLast.swift */,
 				50CC73752E7EE8B80067DAF1 /* HStack_Customizing.swift */,
+				50255FC82E87E26A00FBC192 /* HStack_Layout_Priority.swift */,
 			);
 			path = HStack;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				50CC73762E7EE8B80067DAF1 /* HStack_Customizing.swift in Sources */,
 				503121892E6B23F0009B9F94 /* ViewSizes_Push_Out.swift in Sources */,
 				50CC73702E7EDA600067DAF1 /* HStack_Alignment.swift in Sources */,
+				50255FC92E87E26A00FBC192 /* HStack_Layout_Priority.swift in Sources */,
 				503121932E6C7320009B9F94 /* LazyVStackWithScrolling.swift in Sources */,
 				503121742E6AFF69009B9F94 /* ContentView.swift in Sources */,
 				503121912E6C53A0009B9F94 /* LazyVStack_Intro.swift in Sources */,
